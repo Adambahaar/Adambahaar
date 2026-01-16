@@ -54,6 +54,7 @@ Interested in networking, cybersecurity, and technology systems.
 
    ### 📚 Courses
    **Semester 1**
+   
   [- SECP1513 - Technology and Information System](https://example.com)
   - SECJ1013 – Programming Technique I
   - SECR1013 – Digital Logic
