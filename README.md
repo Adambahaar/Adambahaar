@@ -6,15 +6,15 @@ I am Adam , a first-year Bachelor of Computer Science (Network and Security) stu
 I have a strong academic background and active involved in university clubs, volunteer programs, and leadership activities. 
 Interested in networking, cybersecurity, and technology systems.
 
-### 🎓 Education
-**Universiti Teknologi Malaysia (UTM)** 
-Bachelor of Computer Science (Network and Security) with Honours
-*205 - Present*
+ ### 🎓 Education
+ **Universiti Teknologi Malaysia (UTM)** 
+ Bachelor of Computer Science (Network and Security) with Honours
+ *205 - Present*
 
-**Kolej Matrikulasi Negeri Sembilan (KMNS)**
-Science Physical Programme
-- CGPA : 4.00
-- MUET : 3.5
+ **Kolej Matrikulasi Negeri Sembilan (KMNS)**
+ Science Physical Programme
+ - CGPA : 4.00
+ - MUET : 3.5
 
   ---
 
