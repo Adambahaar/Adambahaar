@@ -55,7 +55,7 @@ Interested in networking, cybersecurity, and technology systems.
    ### 📚 Courses
    **Semester 1**
    
-  - [SECP1513 - Technology and Information System](https://README.md)
+  - [SECP1513 - Technology and Information System](https://github.com/Adambahaar/SECP1513-Technology--andInformation-System))
   - SECJ1013 – Programming Technique I
   - SECR1013 – Digital Logic
   - SECI1013 – Discrete Structure
